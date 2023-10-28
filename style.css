@@ -473,4 +473,10 @@ p {
   .About__title br {
     display: block;
   }
+  .About__title h2 {
+    font-size: 33px;
+    line-height: 1.4;
+    white-space: pre;
+    word-break: keep-all;
+  }
 }
